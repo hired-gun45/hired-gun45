@@ -2,4 +2,4 @@ something
 
 new added line
 
-changed line
+added another line
