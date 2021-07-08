@@ -1,1 +1,3 @@
+this is some new text
+C
 this is for dummy3
